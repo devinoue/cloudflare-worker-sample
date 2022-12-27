@@ -1,0 +1,6 @@
+name = "hello"
+main = "src/index.ts"
+compatibility_date = "2022-12-25"
+
+[triggers]
+crons = ["*/3 * * * *"]
